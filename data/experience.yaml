@@ -1,0 +1,26 @@
+- company: RTX
+  roles:
+    - role: Execution Lead - Principal Information Systems Engineer, Test Equipment Engineering 
+      details: |
+        Lead a team of Information System Engineers with responsibilities in both production OT/Factory environments as well as traditional DT test and development environments. 
+      date: 11.2024 -  Present
+
+- company: Raytheon
+  page: 1
+  roles: 
+    - role: Sr Principal Technologist - Advanced Technology Team Lead
+      tools: Tenable, Splunk, Python
+      details: |
+        Advanced Technology Team Lead. Spearheading LAN upgrade and expansion to connect remote sites post business unit merger, reduce duplicate efforts and extend support. 
+        Technical SME for multiple SBUs, departments, and program efforts. Ensuring JSIG, NIST 800, and DFARs controls are tailored for both IT and OT programs spaces.
+      date: 04.2016 - 11.2024
+
+- company: Allsource Global Management
+  page: 1
+  roles:
+    - role: Systems Analyst
+      tools: C#, Python, SQL 
+      details: |
+        Contract position. Web developer and Database/Applications administrator for 355th Fighter Wing. 
+        PEX and Geospatial Product Library (GPL). Designed and implemented a secure air gapped domain for classified A-10 training for 354th and 357th Fighter Wings
+      date: 2014 - 2016

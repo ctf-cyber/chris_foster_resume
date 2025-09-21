@@ -1,0 +1,79 @@
+about:
+  name: Chris Foster
+  tagline: Standard Nerd
+  phone: "5209917096"
+  email: ctf@arizona.edu
+  links:
+    - title: /in/mertbakir
+      url: https://tr.linkedin.com/in/mertbakir
+      icon: fab fa-linkedin
+    - title: mertbakir
+      url: https://gitlab.com/mertbakir/
+      icon: fab fa-gitlab
+    - title: mertbakir
+      url: https://github.com/mertbakir
+      icon: fab fa-github
+  details: |
+    Team Lead. Experienced IT/Cybersecurity professional with a background working in demanding environments (Development, Production, and R&D/IRAD). Often the person brought in when things are very bad to correct the course. Always looking for new challenges. Hacker, Tinkerer, hardware enthusiast, Windows SME and Linux evangelist/enthusiast, mildly obsessed with systems security, pentesting, reverse engineering, and stressing technology to its limits.
+
+
+skills:
+  - groupName: Cryptography & Systems Security
+    list:
+      - C - Python - Encryption
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - R - SQL
+      
+  - groupName: Programming & Systems
+    list:
+      - C# - Git - Docker - NGINX
+      - Linux - Alma RHEL - Ubuntu
+      - Powershell - Ansible - Terraform
+
+interests:
+  - Cryptography 
+  - Systems and Network Security
+  - Optimization Problems
+  - Security Problems
+  - Hardware and Electronics
+
+languages:
+  - name: English
+    level: Native
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Raytheon Hackathon Silver Medal winner"
+    date: "2019"
+    subtitle: "Developed a proof of concept system to gather hardware data and automatically respond based on conditions and values."
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    # links:
+    #   - title: example
+    #     url: https://mertbakir.gitlab.io
+    #     icon: fas fa-bolt
+    #     prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+
+certificates:
+  - title: "Security + CE"
+    subtitle: CompTIA   
+    date: "2010 - Present"
+    link: http://verify.CompTIA.org # This link will be on title level.
+
+  - title: "Linux +"
+    subtitle: CompTIA
+    date: "Feb 2022"
+    link: http://verify.CompTIA.org
+
+  - title: "Introduction to Large Language Models"
+    subtitle: Google
+    date: "May 2024"
+    link: https://www.cloudskillsboost.google/public_profiles/f522d3ca-bccc-4897-9a28-f3d4689dd7a8/badges/9032207
+
+  - title: "CC - Certified in Cybersecurity"
+    subtitle: ISC2
+    date: "Dec 2022"
+    link: https://www.isc2.org/certifications/cc
