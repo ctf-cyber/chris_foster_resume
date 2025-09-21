@@ -3,7 +3,7 @@ projects:
   subtitle: "MIS 547 University of Arizona"
   date: "2025"
   details: |
-    Creatied a containerized resume using docker and hugomods
+    Creatied a containerized resume using docker and hugomods. Currently deployed on Digital Ocean.
 
   links:
   - title: GitLab
